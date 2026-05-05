@@ -49,9 +49,6 @@ cd server && npm run dev
 cd client && npm run dev
 ```
 
-App is now live at **http://localhost:5173**
-
-
 ## 🔐 Role Permissions
 
 | Feature | Admin | Member |
