@@ -4,8 +4,6 @@ A full-stack MERN application for managing team projects and tasks with role-bas
 
 ---
 
-## 📁 Folder Structure
-
 ## ⚙️ Local Setup
 
 ### Prerequisites
